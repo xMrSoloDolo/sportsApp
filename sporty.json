@@ -50,10 +50,10 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
-			"popUpLink": "https://google.com",
-			"popUpName": "Normal Popup",
-			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif"
+			"popUpActive": true,
+			"popUpLink": "https://giftcardrewards.online/",
+			"popUpName": "CLAIM FREE BONUS",
+			"popImage": "https://i.ibb.co/bBLg4sm/sporty.jpg"
 		},
         "privacyPolicy": "https://",
 	    
