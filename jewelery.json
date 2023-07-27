@@ -6,7 +6,7 @@
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
         "bannerAd": "admob",
-        "InterAd": "admob",
+        "InterAd": "max",
         "NativeAd": "admob",
 	"EnableBnr_Ntv":true,
         "admob_banner": "/21833905170,22877764688/Banner_com.jwlerskr.kayjwel.nklskay_banner_DU",
