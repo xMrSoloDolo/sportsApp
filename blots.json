@@ -51,7 +51,7 @@
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": true,
+		"genderActivity": false,
 	    
 		"phoneSystemActivity": false,
 	    
@@ -69,7 +69,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":true,
+                "CaptchaActivity":false,
 	    
 	    
 		"extraButton1Active": false,
