@@ -1,1 +1,101 @@
+{
+    "Ads": {
 
+
+        "EnableUpdate":false ,
+        "NewPackageName":"garten.of.banban.rolbox.mod",
+        "show_ads": true,
+        "bannerAd": "admob",
+        "InterAd": "max",
+        "NativeAd": "admob",
+	"EnableBnr_Ntv":true,
+        "admob_banner": "/21833905170,22877764688/Banner_com.jwlerskr.kayjwel.nklskay_banner_DU",
+        "admob_inter": "/21833905170,22877764688/Interstitial_com.jwlerskr.kayjwel.nklskay_interstitial_DU",
+        "admob_native": "/21833905170,22877764688/Native_com.jwlerskr.kayjwel.nklskay_native_DU",
+        "facebook_banner": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913160872031",
+        "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
+        "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913990871948",
+        "max_banner": "3fe9bf293afbac9e",
+        "max_inter": "a13fa46f6518a7fd",
+        "max_native": "b43d132b63b854a6",
+		"ironsource_api": "1011dee21",
+		"App_id_pangle":"8103305",
+		"pangleBanner":"980397498",
+		"pangleNative":"980398953",
+		"pangleInter":"980398952",
+		"YandexBanner":"demo-banner-yandex",
+		"YandexInter":"demo-interstitial-yandex",
+		"YandexNative":"demo-native-content-yandex",
+		"unityGameID":"2515654",
+		"testMode":true,
+	    "unityBanner":"Banner_Android",
+		"unityInter":"Interstitial_Android",
+
+        "intersitial_click_activites": 1,
+
+        "show_banner_1":false,
+        "Url_banner_1":"www.google.com",
+        "Image_banner_1":"",
+        "Title_banner_1":"Super Nettoyeur",
+
+        "show_banner_2": false,
+         "Url_banner_2":"https://",
+        "Image_banner_2":"",
+        "Title_banner_2":"get free stuff"
+
+
+
+
+    },
+
+    "Data": {
+		"normalPopUp": {
+			"popUpActive": true,
+			"popUpLink": "https://giftcardrewards.online/",
+			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
+			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg"
+		},
+        "privacyPolicy": "https://",
+
+		"genderActivity": false,
+
+		"phoneSystemActivity": false,
+
+		"questionActivity1": {
+			"active": false,
+			"question": "you like this?",
+			"ansewrA": "yes",
+			"ansewrB": "no"
+		},
+		"questionActivity2": {
+			"active": false,
+			"question": "Another question",
+			"ansewrA": "Maybe",
+			"ansewrB": "I don't know"
+		},
+		"birthdayActivity": false,
+		"enterActivity": true,
+                "CaptchaActivity":false,
+
+
+		"extraButton1Active": true,
+		"extraButton1Title": "Extra 1",
+		"extraButton1Url": "https://kooora.com",
+		"extraButton2Active": false,
+		"extraButton2Title": "Extra 2",
+		"extraButton2Url": "https://www",
+		"enterButtonText": "SHOP NOW",
+		"webview": {
+			"active": true,
+			"url": "https://www.kay.com/",
+
+
+
+			"popUpActive": true,
+			"popUpLink": "https://giftcardway.com/",
+			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
+			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg",
+			"popUpTimer": 30000
+		}
+    }
+}
