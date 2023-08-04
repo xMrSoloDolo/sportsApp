@@ -2,7 +2,7 @@
     "Ads": {
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
-        "show_ads": true,
+        "show_ads": false,
         "bannerAd": "max",
         "InterAd": "max",
         "NativeAd": "max",
@@ -44,20 +44,20 @@
     },
     "Data": {
 		"normalPopUp": {
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardrewards.online/",
 			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/KVjc2k3/newbigcpa.jpg"
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": false,
+		"genderActivity": true,
 	    
 		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
-			"active": false,
-			"question": "you like this?",
+			"active": true,
+			"question": "you like shopping online?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
 		},
@@ -80,12 +80,12 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "SHOW NOW",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.biglots.com/",
 			
 			
 			
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardrewards.online/",
 			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/KVjc2k3/newbigcpa.jpg",
