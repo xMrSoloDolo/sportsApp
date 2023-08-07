@@ -9,7 +9,7 @@
         "bannerAd": "admob",
         "InterAd": "max",
         "NativeAd": "admob",
-	"EnableBnr_Ntv":true,
+	"EnableBnr_Ntv":false,
 
         "admob_banner": "/21753324030,22877764688/com.allfordollr.treeofsh.shoponetr_Banner",
         "admob_inter": "/21753324030,22877764688/com.allfordollr.treeofsh.shoponetr_Interstitial",
@@ -64,7 +64,7 @@
 		},
         "privacyPolicy": "https://",
 
-		"genderActivity": false,
+		"genderActivity": true,
 
 		"phoneSystemActivity": false,
 
@@ -82,12 +82,12 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":false,
+                "CaptchaActivity":true,
 
 
-		"extraButton1Active": false,
-		"extraButton1Title": "Extra 1",
-		"extraButton1Url": "https://kooora.com",
+		"extraButton1Active": true,
+		"extraButton1Title": "DOLLAR TREE",
+		"extraButton1Url": "https://giftcardrewards.online/",
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www",
