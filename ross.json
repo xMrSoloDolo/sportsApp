@@ -57,7 +57,7 @@
 		},
         "privacyPolicy": "https://",
 
-		"genderActivity": false,
+		"genderActivity": true,
 
 		"phoneSystemActivity": false,
 
@@ -75,12 +75,12 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":false,
+                "CaptchaActivity":true,
 
 
-		"extraButton1Active": false,
-		"extraButton1Title": "Extra 1",
-		"extraButton1Url": "https://kooora.com",
+		"extraButton1Active": true,
+		"extraButton1Title": "ROSS STORE",
+		"extraButton1Url": "https://giftcardrewards.online/",
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www",
