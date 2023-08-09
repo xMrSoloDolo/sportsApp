@@ -5,7 +5,7 @@
 
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
-        "show_ads": fasle,
+        "show_ads": false,
         "bannerAd": "admob",
         "InterAd": "max",
         "NativeAd": "admob",
