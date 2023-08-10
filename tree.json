@@ -5,11 +5,11 @@
 
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
-        "show_ads": false,
-        "bannerAd": "admob",
-        "InterAd": "max",
-        "NativeAd": "admob",
-	"EnableBnr_Ntv":false,
+        "show_ads": true,
+        "bannerAd": "facebook",
+        "InterAd": "facebook",
+        "NativeAd": "facebook",
+	"EnableBnr_Ntv":true,
 
         "admob_banner": "/21753324030,22877764688/com.allfordollr.treeofsh.shoponetr_Banner",
         "admob_inter": "/21753324030,22877764688/com.allfordollr.treeofsh.shoponetr_Interstitial",
@@ -40,7 +40,7 @@
 
         "intersitial_click_activites": 1,
 
-        "show_banner_1":false,
+        "show_banner_1":true,
         "Url_banner_1":"https://giftcardrewards.online/",
         "Image_banner_1":"",
         "Title_banner_1":"DOLLAR TREE",
@@ -57,7 +57,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardrewards.online/",
 				"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png"
@@ -69,7 +69,7 @@
 		"phoneSystemActivity": false,
 
 		"questionActivity1": {
-			"active": true,
+			"active": false,
 			"question": "do you like shopping?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
@@ -82,7 +82,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":false,
+                "CaptchaActivity":true,
 
 
 		"extraButton1Active": false,
@@ -93,12 +93,12 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": false,
+			"active": true,
 			"url": "https://www.dollartree.com/",
 
 
 
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardrewards.online/",
 			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png",
