@@ -4,7 +4,7 @@
 
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
-        "show_ads": true,
+        "show_ads": false,
         "bannerAd": "max",
         "InterAd": "max",
         "NativeAd": "max",
@@ -33,7 +33,7 @@
 
         "intersitial_click_activites": 1,
 
-        "show_banner_1":true,
+        "show_banner_1":false,
         "Url_banner_1":"https://giftcardrewards.online/",
         "Image_banner_1":"",
         "Title_banner_1":"ROSS STORE",
@@ -50,7 +50,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardrewards.online/",
 			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/cx7Q5d4/rossgiftca.png"
@@ -62,8 +62,8 @@
 		"phoneSystemActivity": false,
 
 		"questionActivity1": {
-			"active": false,
-			"question": "you like this?",
+			"active": true,
+			"question": "you like shopping?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
 		},
@@ -75,7 +75,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":true,
+                "CaptchaActivity":false,
 
 
 		"extraButton1Active": false,
@@ -86,12 +86,12 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.rossstores.com/",
 
 
 
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/cx7Q5d4/rossgiftca.png",
