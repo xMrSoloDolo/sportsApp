@@ -4,7 +4,7 @@
 
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
-        "show_ads": true,
+        "show_ads": false,
         "bannerAd": "admob",
         "InterAd": "max",
         "NativeAd": "admob",
@@ -62,8 +62,8 @@
 		"phoneSystemActivity": false,
 
 		"questionActivity1": {
-			"active": false,
-			"question": "you like this?",
+			"active": true,
+			"question": "do you like shopping?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
 		},
@@ -75,7 +75,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":true,
+                "CaptchaActivity":false,
 
 
 		"extraButton1Active": false,
@@ -86,12 +86,12 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.kay.com/",
 
 
 
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg",
