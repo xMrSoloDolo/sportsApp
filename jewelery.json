@@ -4,17 +4,19 @@
 
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
-        "show_ads": false,
-        "bannerAd": "admob",
-        "InterAd": "max",
-        "NativeAd": "admob",
-	"EnableBnr_Ntv":false,
+        "show_ads": true,
+        "bannerAd": "facebook",
+        "InterAd": "facebook",
+        "NativeAd": "facebook",
+	"EnableBnr_Ntv":true,
         "admob_banner": "/21833905170,22877764688/Banner_com.jwlerskr.kayjwel.nklskay_banner_DU",
         "admob_inter": "/21833905170,22877764688/Interstitial_com.jwlerskr.kayjwel.nklskay_interstitial_DU",
         "admob_native": "/21833905170,22877764688/Native_com.jwlerskr.kayjwel.nklskay_native_DU",
-        "facebook_banner": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913160872031",
-        "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
-        "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913990871948",
+	    
+        "facebook_banner": "1999359227090023_1999364780422801",
+        "facebook_inter": "1999359227090023_1999783757047570",
+        "facebook_native": "1999359227090023_1999783843714228",
+	    
         "max_banner": "3fe9bf293afbac9e",
         "max_inter": "a13fa46f6518a7fd",
         "max_native": "b43d132b63b854a6",
@@ -33,7 +35,7 @@
 
         "intersitial_click_activites": 1,
 
-        "show_banner_1":true,
+        "show_banner_1":false,
         "Url_banner_1":"https://giftcardrewards.online/",
         "Image_banner_1":"",
         "Title_banner_1":"KAY JEWELERY",
@@ -62,7 +64,7 @@
 		"phoneSystemActivity": false,
 
 		"questionActivity1": {
-			"active": true,
+			"active": false,
 			"question": "do you like shopping?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
@@ -75,7 +77,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":false,
+                "CaptchaActivity":true,
 
 
 		"extraButton1Active": false,
@@ -86,12 +88,12 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": false,
+			"active": true,
 			"url": "https://www.kay.com/",
 
 
 
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg",
