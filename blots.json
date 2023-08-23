@@ -1,7 +1,7 @@
 {
     "Ads": {
         "EnableUpdate":true ,
-        "NewPackageName":"com.biglotsltds.biglotsapp",
+        "NewPackageName":"com.biglots.shopping.biglotsshop",
         "show_ads": false,
         "bannerAd": "facebook",
         "InterAd": "facebook",
