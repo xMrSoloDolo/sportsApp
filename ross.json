@@ -2,9 +2,9 @@
     "Ads": {
 
 
-        "EnableUpdate":false ,
-        "NewPackageName":"garten.of.banban.rolbox.mod",
-        "show_ads": true,
+        "EnableUpdate":true ,
+        "NewPackageName":"com.ross.rossnshopping",
+        "show_ads": false,
         "bannerAd": "max",
         "InterAd": "max",
         "NativeAd": "max",
