@@ -2,8 +2,8 @@
     "Ads": {
 
 
-        "EnableUpdate":false ,
-        "NewPackageName":"garten.of.banban.rolbox.mod",
+        "EnableUpdate":true ,
+        "NewPackageName":"com.jewelerykay.chainsgfts",
         "show_ads": true,
         "bannerAd": "facebook",
         "InterAd": "facebook",
